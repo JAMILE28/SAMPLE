@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Resume</title>
+</head>
+<body>
+    <header>
+        <h1>Athane Jamile</h1>
+    </header>
+
+    <section>
+        <header>
+            <h2>Objective Statement</h2>
+        </header>
+        <p>To leverage my skills in web development to create impactful digital experiences.</p>
+
+        <header>
+            <h2>Education</h2>
+        </header>
+        <ul>
+            <li>Bachelor of Science in Computer Science, Kupal University, 2020</li>
+            <li>Master of Science in Software Engineering, Lapuk University, 2022</li>
+        </ul>
+
+        <header>
+            <h2>Experience</h2>
+        </header>
+        <ul>
+            <li>
+                <strong>Software Developer</strong>, Aces Chassis Logistics Marketing Corp., 2022 - Present
+                <ul>
+                    <li>Developed and maintained web applications.</li>
+                    <li>Collaborated with cross-functional teams to design and implement features.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Intern</strong>, WebWorks , Summer 2021
+                <ul>
+                    <li>Assisted in front-end development projects.</li>
+                    <li>Contributed to testing and debugging processes.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <header>
+            <h2>Skills</h2>
+        </header>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>React, Node.js</li>
+            <li>Responsive Design</li>
+        </ul>
+
+        <header>
+            <h2>Awards & Certifications</h2>
+        </header>
+        <ul>
+            <li>Certified Web Developer, WebDev Academy</li>
+            <li>Top Performer Award, Aces Chassis Logistics Marketing Corp.</li>
+        </ul>
+    </section>
+
+    <section>
+        <header>
+            <h2>About Me</h2>
+        </header>
+        <img src="profile.jpg" alt="Profile pic here" style="width:200px;height:200px;">
+        <p>Welcome to my online resume. I am passionate about technology and eager to contribute to innovative projects.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Athane Jamile. All rights reserved.</p>
+    </footer>
+</body>
+</html>
